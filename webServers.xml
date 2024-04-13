@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27463ab3-9d1f-4b92-9e81-cdbaab411cd4" name="https://www.github.com/1bthomp" url="http://www.github.com/1bthomp">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
